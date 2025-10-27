@@ -534,7 +534,7 @@ export default function Home() {
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3572.1988331918637!2d-103.32597142503255!3d20.686526499445755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8428b1997e71de2b%3A0xaed3be9da3e8d347!2sPussyLand!5e1!3m2!1sen!2sin!4v1761590242344!5m2!1sen!2sin"
               width="600"
               height="450"
-              allowFullScreen=""
+              allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
             ></iframe>
